@@ -64,4 +64,4 @@ python main.py
 Hata bildirimleri (issues) veya geliştirme istekleri (pull requests) her zaman memnuniyetle karşılanır. Geliştirme ortamınızın güncel kütüphanelere (`requirements.txt`) ve `.env` ayarlarına sahip olduğundan emin olun.
 
 ---
-*Bu proje Rubar Gümüş (ve GitHub üzerinden destek sağlayanlar) tarafından geliştirilmiştir.*
+*Bu proje Kaan Gümüş (ve GitHub üzerinden destek sağlayanlar) tarafından geliştirilmiştir.*
